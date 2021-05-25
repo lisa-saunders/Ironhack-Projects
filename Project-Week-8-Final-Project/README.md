@@ -54,7 +54,7 @@ File Structure:
 
 ```
 ├── README.md            <- README to explain project motivation
-├── Data                 <- Cleaned datasets
+├── Data                 <- Dataset not uploaded
 │
 ├── Notebooks            <- Jupyter notebooks
 │
